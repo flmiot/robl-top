@@ -9,6 +9,8 @@ Run the notebooks in 1,2,3:
 
 2.) Make a copy of the Jupter notebooks in your home directory.
 
+``git clone https://github.com/flmiot/robl-top``
+
 ![image info](./doc/gifs/clone.gif)
 
 3.) To get started, adjust the parameters in the notebooks and run the required cells.
