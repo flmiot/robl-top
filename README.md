@@ -5,7 +5,7 @@ Run the notebooks in 1,2,3:
 
 1.) Login to the ESRF JupyerLab instance:
 
-![image info](./doc/gifs/login.gif)
+![image info](./doc/gifs/login.mp4)
 
 2.) Make a copy of the Jupter notebooks in your home directory.
 
