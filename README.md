@@ -15,6 +15,8 @@ https://user-images.githubusercontent.com/20418900/203066394-4095c075-e83d-4b17-
 
 3.) To get started, adjust the parameters in the notebooks and run the required cells.
 
-https://user-images.githubusercontent.com/20418900/203066469-4d715db2-2aae-419b-8ad9-f284e0ff0c56.mp4
+https://user-images.githubusercontent.com/20418900/203085557-752117ca-81f8-48b8-9a6b-485c10d19bfe.mp4
+
+
 
 
